@@ -1,1 +1,0 @@
-# primeno1
